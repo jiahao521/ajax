@@ -1,4 +1,4 @@
-       .gitignore
-       .idea/
-       ajax.iml
-       target/
+.idea/
+ajax.iml
+target/
+.gitignore
